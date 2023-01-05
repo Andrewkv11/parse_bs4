@@ -1,0 +1,645 @@
+{
+    "Системы питания": [
+        {
+            "Наименование": "HN-UHub4 разветвитель USB 3.0 на 4 порта Hunter",
+            "Цена": 600,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/tovary/ozon-ne-na-sayt/usb-hub-razvetvitel-usb-3.0-na-4-porta/"
+        },
+        {
+            "Наименование": "HN-UHub4s разветвитель USB 3.0 на 4 порта",
+            "Цена": 690,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/tovary/ozon-ne-na-sayt/usb-hub-slim-razvetvitel-usb-3.0-na-4-porta/"
+        },
+        {
+            "Наименование": "HN-UHUb2UHSTP мультифункциональный Hub 2xUSB3.0/HDMI/SD/TF/PD",
+            "Цена": 1100,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/tovary/ozon-ne-na-sayt/6-v-1-hub-kartrider-2xusb3.0-hdmi-sd-tf-pd/"
+        }
+    ],
+    "True IP": [
+        {
+            "Наименование": "STI-1000 блок управления True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-1000-blok-upravleniya-true-ip/"
+        },
+        {
+            "Наименование": "STI BDHM8E27W70 умная лампа True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-bdhm8e27w70-umnaya-lampa-true-ip/"
+        },
+        {
+            "Наименование": "STI BRHM8E27W70 умная цветная лампа True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-brhm8e27w70-umnaya-cvetnaya-lampa-true-ip/"
+        },
+        {
+            "Наименование": "STI SKHMP30 умная розетка True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-skhmp30-umnaya-rozetka-true-ip/"
+        },
+        {
+            "Наименование": "STI SMHM датчик движения True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-smhm-datchik-dvizheniya-true-ip/"
+        },
+        {
+            "Наименование": "STI SOHM датчик открытия True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sohm-datchik-otkrytiya-true-ip/"
+        },
+        {
+            "Наименование": "STI SWHM датчик протечки True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-swhm-datchik-protechki-true-ip/"
+        },
+        {
+            "Наименование": "STI STHM датчик температуры и влажности True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/stisthm-datchik-temperatury-i-vlazhnosti-true-ip/"
+        },
+        {
+            "Наименование": "STI SGMHM датчик газа True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sgmhm-datchik-gaza-true-ip/"
+        },
+        {
+            "Наименование": "STI SGPHM датчик газа True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sgphm-datchik-gaza-true-ip/"
+        },
+        {
+            "Наименование": "STI SRC100 пульт управления True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-src100-pult-upravleniya-true-ip/"
+        },
+        {
+            "Наименование": "STI SRHMP умная сирена True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-srhmp-umnaya-sirena-true-ip/"
+        },
+        {
+            "Наименование": "STI SSHM датчик дыма True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sshm-datchik-dyma-true-ip/"
+        },
+        {
+            "Наименование": "STI SWGV100 умный запирающий клапан True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-swgv100-umnyy-zapirayuschiy-klapan-true-ip/"
+        },
+        {
+            "Наименование": "STI SWS101 выключатель True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sws101-vyklyuchatel-true-ip/"
+        },
+        {
+            "Наименование": "STI SWS102 выключатель True IP",
+            "Цена": "Цену уточняйте",
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/true-ip-ru/sti-sws102-vyklyuchatel-true-ip/"
+        }
+    ],
+    "Rubetek": [
+        {
+            "Наименование": "TZ68G умная розетка",
+            "Цена": 990,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/tz68g-umnaya-rozetka/"
+        },
+        {
+            "Наименование": "PAN08-5B реле управления моторами",
+            "Цена": 4130,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/pan085b-rele-upravleniya-motorami/"
+        },
+        {
+            "Наименование": "RL-3101 светодиодная лампа Rubetek",
+            "Цена": 590,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rl-3101-svetodiodnaya-lampa-rubetek/"
+        },
+        {
+            "Наименование": "RS-3210 датчик открытия Rubetek",
+            "Цена": 825,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rs-3210-datchik-otkrytiya-rubetek/"
+        },
+        {
+            "Наименование": "RL-3121 панель управления Rubetek",
+            "Цена": 1320,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rl-3121-panel-upravleniya-rubetek/"
+        },
+        {
+            "Наименование": "KR-SD02 датчик дыма Rubetek",
+            "Цена": 1415,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/kr-sd02-datchik-dyma/"
+        },
+        {
+            "Наименование": "RS-3201 датчик движения Rubetek",
+            "Цена": 1415,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rs-3201-datchik-dvizheniya/"
+        },
+        {
+            "Наименование": "RS-3220 датчик протечки Rubetek",
+            "Цена": 1415,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rs-3220-datchik-protechki-rubetek/"
+        },
+        {
+            "Наименование": "RS-3250 датчик разбития стекла Rubetek",
+            "Цена": 1415,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rs-3250-datchik-razbitiya-stekla-rubetek/"
+        },
+        {
+            "Наименование": "RL-3122 панель управления Rubetek",
+            "Цена": 1460,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rl-3122-panel-upravleniya-rubetek/"
+        },
+        {
+            "Наименование": "RS-3203 датчик движения Rubetek",
+            "Цена": 1510,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rs-3203-datchik-dvizheniya-rubetek/"
+        },
+        {
+            "Наименование": "RL-3103 Wi-Fi лампа Rubetek",
+            "Цена": 1890,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rl-3103-wi-fi-lampa-rubetek/"
+        },
+        {
+            "Наименование": "RM-3712 Wi-Fi модуль управления Rubetek",
+            "Цена": 2080,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rm-3712-wi-fi-modul-upravleniya-rubetek/"
+        },
+        {
+            "Наименование": "RC-3601 датчик температуры и влажности Rubetek",
+            "Цена": 2840,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rc-3601-datchik-temperatury-i-vlazhnosti-rubetek/"
+        },
+        {
+            "Наименование": "RE-3316 Wi-Fi выключатель Rubetek",
+            "Цена": 2935,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3316-wi-fi-vyklyuchatel-rubetek/"
+        },
+        {
+            "Наименование": "RE-3301 Wi-Fi розетка Rubetek",
+            "Цена": 3030,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3301-wi-fi-rozetka-rubetek/"
+        },
+        {
+            "Наименование": "RE-3311 блок управления Rubetek",
+            "Цена": 3125,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3311-blok-upravleniya-rubetek/"
+        },
+        {
+            "Наименование": "RE-3317 Wi-Fi выключатель Rubetek",
+            "Цена": 3410,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3317-wi-fi-vyklyuchatel-rubetek/"
+        },
+        {
+            "Наименование": "RE-3310 сетевой фильтр с Wi-Fi Rubetek",
+            "Цена": 3500,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3310-setevoy-filtr-s-wi-fi-rubetek/"
+        },
+        {
+            "Наименование": "RE-3312 блок управления Rubetek",
+            "Цена": 3600,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/re-3312-blok-upravleniya-rubetek/"
+        },
+        {
+            "Наименование": "RK-3531 комплект \"Контроль доступа\"",
+            "Цена": 4845,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rk-3531-komplekt-kontrol-dostupa/"
+        },
+        {
+            "Наименование": "RK-3515 комплект \"Управление и безопасность\"",
+            "Цена": 5215,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rk-3515-komplekt-upravlenie-i-bezopasnost/"
+        },
+        {
+            "Наименование": "RK-3516 комплект \"Безопасность и контроль\"",
+            "Цена": 5690,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rk-3516-komplekt-bezopasnost-i-kontrol/"
+        },
+        {
+            "Наименование": "RK-3512 комплект \"Видеоконтроль и безопасность\"",
+            "Цена": 6165,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rk-3512-komplekt-videokontrol-i-bezopasnost/"
+        },
+        {
+            "Наименование": "RK-3532 комплект \"Защита от протечки и пожара\"",
+            "Цена": 6640,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/rubetek-umnyy-dom/rk-3532-komplekt-zaschita-ot-protechki-i-pozhara/"
+        }
+    ],
+    "Умные розетки": [
+        {
+            "Наименование": "Радио розетка ИПРо",
+            "Цена": 1960,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/umnye-rozetki/radio-rozetka-ipro/"
+        },
+        {
+            "Наименование": "Sapsan PRO 10 умная GSM розетка",
+            "Цена": 3909,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/umnye-rozetki/sapsan-pro-10-umnaya-gsm-rozetka/"
+        }
+    ],
+    "Звонки дверные": [
+        {
+            "Наименование": "RX-1 (73-0010) беспроводной звонок Rexant",
+            "Цена": 332,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-1-73-0010-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "Звонок электрический (73-0100) Rexant",
+            "Цена": 337,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/zvonok-elektricheskiy-73-0100-rexant/"
+        },
+        {
+            "Наименование": "RX-2 (73-0020) беспроводной звонок Rexant",
+            "Цена": 405,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-2-73-0020-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-8 (73-0080) проводной звонок Rexant",
+            "Цена": 439,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-8-73-0080-provodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-3 (73-0030) беспроводной звонок Rexant",
+            "Цена": 532,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-3-73-0030-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-6 (73-0060) беспроводной звонок Rexant",
+            "Цена": 540,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-6-73-0060-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "Звонок электрический с регулятором (73-0110) Rexant",
+            "Цена": 574,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/zvonok-elektricheskiy-s-regulyatorom-73-0110-rexant/"
+        },
+        {
+            "Наименование": "RX-7 (73-0070) проводной звонок Rexant",
+            "Цена": 581,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-7-73-0070-provodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-4 (73-0040) беспроводной звонок Rexant",
+            "Цена": 674,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-4-73-0040-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-5 (73-0050) беспроводной звонок Rexant",
+            "Цена": 845,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-5-73-0050-besprovodnoy-zvonok-rexant/"
+        },
+        {
+            "Наименование": "RX-30 (73-0015) беспроводной звонок Rexant",
+            "Цена": 1014,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/zvonki-dvernye/rx-30-73-0015-besprovodnoy-zvonok-rexant/"
+        }
+    ],
+    "Контроллеры": [
+        {
+            "Наименование": "Carlinkit 3.0 адаптер беспроводного подключения CarPlay",
+            "Цена": 6000,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/kontrollery-umnyy-dom/carlinkit-3.0-adapter-besprovodnogo-podklyucheniya-carplay/"
+        },
+        {
+            "Наименование": "Carlinkit 3.0 V2 адаптер беспроводного подключения CarPlay",
+            "Цена": 6800,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/kontrollery-umnyy-dom/carlinkit-3.0-v2-adapter-besprovodnogo-podklyucheniya-carplay/"
+        },
+        {
+            "Наименование": "Carlinkit Full Android Ai Box адаптер беспроводного подключения CarPlay",
+            "Цена": 19370,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/kontrollery-umnyy-dom/carlinkit-full-android-ai-box-adapter-besprovodnogo-podklyucheniya-carplay/"
+        },
+        {
+            "Наименование": "mPort Serial (mPort-S) контроллер Ubiquiti",
+            "Цена": 990,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/kontrollery-umnyy-dom/mport-serial-mport-s-kontroller-ubiquiti/"
+        }
+    ],
+    "Датчики": [
+        {
+            "Наименование": "mFi-MSC датчик движения Ubiquiti",
+            "Цена": 490,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/datchiki-umnyy-dom/mfi-msc-datchik-dvizheniya-ubiquiti/"
+        }
+    ],
+    "Системы защиты от протечек": [
+        {
+            "Наименование": "Шаровой кран 3/4\" с электроприводом 12 В Бастион",
+            "Цена": 7284,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/sharovoy-kran-3-4-s-elektroprivodom-12-v-bastion/"
+        },
+        {
+            "Наименование": "Шаровой кран 1/2\" с электроприводом 12 В Бастион",
+            "Цена": 6912,
+            "Наличие": "В наличии",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/sharovoy-kran-1-2-s-elektroprivodom-12-v-bastion/"
+        },
+        {
+            "Наименование": "Классика 3 разъема (АК40) датчик проводной Аквасторож",
+            "Цена": 1445,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/klassika-3-razema-ak40-datchik-provodnoy-akvastorozh/"
+        },
+        {
+            "Наименование": "Блок питания 5В 1А (АК71) Аквасторож",
+            "Цена": 1445,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/blok-pitaniya-5v-1a-ak71-akvastorozh/"
+        },
+        {
+            "Наименование": "Датчик уровня воды в баке Бастион",
+            "Цена": 1486,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/datchik-urovnya-vody-v-bake-bastion/"
+        },
+        {
+            "Наименование": "Дополнительный батарейный блок (АК72) Аквасторож",
+            "Цена": 1930,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/dopolnitelnyy-batareynyy-blok-ak72-akvastorozh/"
+        },
+        {
+            "Наименование": "Кнопка проводная (АК74) Аквасторож",
+            "Цена": 1930,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/knopka-provodnaya-ak74-akvastorozh/"
+        },
+        {
+            "Наименование": "Эксперт (АК50) датчик проводной Аквасторож",
+            "Цена": 2415,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/ekspert-ak50-datchik-provodnoy-akvastorozh/"
+        },
+        {
+            "Наименование": "AquaBast AB-1H-RF беспроводной датчик протечки Бастион",
+            "Цена": 4840,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/ab-1h-rf-besprovodnoy-datchik-protechki-vody-bastion/"
+        },
+        {
+            "Наименование": "Датчик беспроводной (АК60) Аквасторож",
+            "Цена": 5810,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/datchik-besprovodnoy-ak60-akvastorozh/"
+        },
+        {
+            "Наименование": "Звезда (АК73) панель Аквасторож",
+            "Цена": 5810,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/zvezda-ak73-panel-akvastorozh/"
+        },
+        {
+            "Наименование": "Кнопка беспроводная (АК61) Аквасторож",
+            "Цена": 5810,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/knopka-besprovodnaya-ak61-akvastorozh/"
+        },
+        {
+            "Наименование": "Силовой расширитель (АК75) панель Аквасторож",
+            "Цена": 6780,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/silovoy-rasshiritel-ak75-panel-akvastorozh/"
+        },
+        {
+            "Наименование": "Кран 1/2\" RuB (S6400) с приводом Аквасторож Оригинал (22.31)",
+            "Цена": 7750,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/kran-1-2-rub-s6400-s-privodom-akvastorozh-original-22.31/"
+        },
+        {
+            "Наименование": "AquaBast C-RF беспроводной контроллер Бастион",
+            "Цена": 7862,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/aquabast-c-rf-besprovodnoy-kontroller-bastion/"
+        },
+        {
+            "Наименование": "Классика+ PRO (22.02) контроллер Аквасторож",
+            "Цена": 8720,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/klassika-pro-22.02-kontroller-akvastorozh/"
+        },
+        {
+            "Наименование": "Кран 3/4\" RuB (S6400) с приводом Аквасторож Оригинал (22.32)",
+            "Цена": 8720,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/kran-3-4-rub-s6400-s-privodom-akvastorozh-original-22.32/"
+        },
+        {
+            "Наименование": "Кран 1\" RuB (S6400) с приводом Аквасторож Оригинал (22.33)",
+            "Цена": 9690,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/kran-1-rub-s6400-s-privodom-akvastorozh-original-22.33/"
+        },
+        {
+            "Наименование": "Шаровой кран 1\" с электроприводом 12 В Бастион",
+            "Цена": 10224,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/sharovoy-kran-1-s-elektroprivodom-12-v-bastion/"
+        },
+        {
+            "Наименование": "Модуль управления системы AquaBast Бастион",
+            "Цена": 11864,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/upravlenie-vodosnabzheniem/modul-upravleniya-sistemy-aquabast-bastion/"
+        },
+        {
+            "Наименование": "AquaBast Коттедж 1”-RF комплект Бастион",
+            "Цена": 12140,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/aquabast/gotovye-komplekty-ru/aquabast-kottedzh-1-rf-komplekt-bastion/"
+        },
+        {
+            "Наименование": "Радиобаза + 2 радиодатчика (АК76) набор Аквасторож",
+            "Цена": 12600,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/komplektuyuschie-ru/radiobaza-2-radiodatchika-ak76-nabor-akvastorozh/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт 1*15 (204) комплект защиты",
+            "Цена": 15750,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-115-204-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Классика 2*15 (101) комплект защиты",
+            "Цена": 19390,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/klassika/akvastorozh-klassika-215-101-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт PRO 1*25 (203) комплект защиты",
+            "Цена": 21815,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-pro-125-203-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Классика 2*20 (104) комплект защиты",
+            "Цена": 22350,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/klassika/akvastorozh-klassika-220-104-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт 2*15 (201) комплект защиты",
+            "Цена": 25450,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-215-201-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт 2*20 (202) комплект защиты",
+            "Цена": 26665,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-220-202-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Классика Радио 2*15 (150) комплект защиты",
+            "Цена": 29090,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/klassika/akvastorozh-klassika-radio-215-150-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт Радио 2*15 (251) комплект защиты",
+            "Цена": 30300,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-radio-215-251-komplekt-zaschity/"
+        },
+        {
+            "Наименование": "Аквасторож Эксперт Радио 2*20 (252) комплект защиты",
+            "Цена": 31515,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/sistemy-zaschity-ot-protechek/akvastorozh/ekspert/akvastorozh-ekspert-radio-220-252-komplekt-zaschity/"
+        }
+    ],
+    "Ультрафиолетовые очистители": [],
+    "Тепловая автоматика": [
+        {
+            "Наименование": "TEPLOCOM TSF-220/16A термостат Бастион",
+            "Цена": 2240,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-tsf-220-16a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TS-2AA/8A термостат Бастион",
+            "Цена": 2550,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-ts-2aa-8a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TSP 220/NC термоэлектрический сервопривод Бастион",
+            "Цена": 2600,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/tsp-220-nc-termoelektricheskiy-servoprivod-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TS-Prog-220/3A термостат Бастион",
+            "Цена": 4300,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-ts-prog-220-3a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TSF-Prog-220/16A термостат Бастион",
+            "Цена": 4680,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-tsf-prog-220-16a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TSFR-Prog-220/3A термостат Бастион",
+            "Цена": 4800,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-tsfr-prog-220-3a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TS-Prog-2AA/8A термостат Бастион",
+            "Цена": 4850,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-ts-prog-2aa-8a-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TS-2AA/3A-RF термостат Бастион",
+            "Цена": 7890,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-ts-2aa-3a-rf-besprovodnoy-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM TS-Prog-2AA/3A-RF термостат Бастион",
+            "Цена": 9550,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-ts-prog-2aa-3a-rf-termostat-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM Луч TC-8Z теплоконтроллер Бастион",
+            "Цена": 9800,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-tc-8z-teplokontroller-bastion/"
+        },
+        {
+            "Наименование": "TEPLOCOM Каскад TC-2B теплоконтроллер Бастион",
+            "Цена": 11200,
+            "Наличие": "Запрашивайте",
+            "Ссылка": "https://alpatech.ru/umnyy-dom/teplovaya-avtomatika/teplocom-tc-2b-teplokontroller-bastion/"
+        }
+    ]
+}
